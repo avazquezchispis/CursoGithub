@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Estábamos el otro día en el parque...
 y apareció el Juanma húngaro.
 =======
@@ -10,3 +11,7 @@ Estábamos el otro día en el parque y me encontré una bici
 Elver galarga
 Añadiendo disimuladamente una nueva línea
 >>>>>>> 6ff37f8fdc00d94caac3a1da4ed006f944d48a40
+=======
+Estábamos el otro día en el parque...
+paseando en monociclo
+>>>>>>> c8a50f044f1f46e2975cf642990d2bd1c31ce4a9
