@@ -14,4 +14,14 @@ Añadiendo disimuladamente una nueva línea
 =======
 Estábamos el otro día en el parque...
 paseando en monociclo
+<<<<<<< HEAD
 >>>>>>> c8a50f044f1f46e2975cf642990d2bd1c31ce4a9
+=======
+
+
+
+
+
+
+Elver galarga
+>>>>>>> 4611c7ca1a19657d0d3751bc3de55e61c97c9b52
