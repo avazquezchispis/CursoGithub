@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Estábamos el otro día en el parque...
 cuando empezó a llover
 =======
 Estábamos el otro día en el parque y me encontré una bici
 >>>>>>> 538e8f46036c89fe81a859519ca9dc977623509a
+=======
+Estábamos el otro día en el parque y me encontré una bici
+Elver galarga
+cuando empezó a llover
+>>>>>>> 5e1f9f1586b1ff61f5884e20efd92732e45719a3
