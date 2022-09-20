@@ -2,14 +2,30 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 Estábamos el otro día en el parque...
+cuando empezó a llover
+=======
+Estábamos el otro día en el parque y me encontré una bici
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Estábamos el otro día en el parque...
 y apareció el Juanma húngaro.
 =======
 Estábamos el otro día en el parque y me encontré una bici
+>>>>>>> da4739ef8dcb250de6eaf2993326e6ad28cfbe3b
 >>>>>>> 538e8f46036c89fe81a859519ca9dc977623509a
 =======
 Estábamos el otro día en el parque...
 y el Chispis estaba cookin' in da kitchen
 Elver galarga
+<<<<<<< HEAD
+cuando empezó a llover
+>>>>>>> 5e1f9f1586b1ff61f5884e20efd92732e45719a3
+=======
+Elver galarga
+Añadiendo disimuladamente una nueva línea
+>>>>>>> 6ff37f8fdc00d94caac3a1da4ed006f944d48a40
+=======
 Añadiendo disimuladamente una nueva línea
 >>>>>>> 6ff37f8fdc00d94caac3a1da4ed006f944d48a40
 =======
@@ -21,6 +37,33 @@ Espabila
 
 
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+joe biden
+=======
 Elver galarga
+<<<<<<< HEAD
+>>>>>>> 4611c7ca1a19657d0d3751bc3de55e61c97c9b52
+>>>>>>> da4739ef8dcb250de6eaf2993326e6ad28cfbe3b
+=======
+
+Elver galarga
+<<<<<<< HEAD
+>>>>>>> 4611c7ca1a19657d0d3751bc3de55e61c97c9b52
+>>>>>>> da4739ef8dcb250de6eaf2993326e6ad28cfbe3b
+=======
 Tomas Turbao
 
+>>>>>>> d0046fb53a7f95ad06d37b67177d61551d85fc0d
