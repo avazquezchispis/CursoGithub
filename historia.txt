@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 Estábamos el otro día en el parque...
 Probably cooling doesn´t work
+Tomas turbao
 =======
 Estábamos el otro día en el parque y me encontré una bici
 >>>>>>> 538e8f46036c89fe81a859519ca9dc977623509a
