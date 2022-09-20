@@ -15,7 +15,8 @@ Estábamos el otro día en el parque y me encontré una bici
 >>>>>>> da4739ef8dcb250de6eaf2993326e6ad28cfbe3b
 >>>>>>> 538e8f46036c89fe81a859519ca9dc977623509a
 =======
-Estábamos el otro día en el parque y me encontré una bici
+Estábamos el otro día en el parque...
+y el Chispis estaba cookin' in da kitchen
 Elver galarga
 <<<<<<< HEAD
 cuando empezó a llover
@@ -30,9 +31,6 @@ Añadiendo disimuladamente una nueva línea
 =======
 Estábamos el otro día en el parque...
 paseando en monociclo
-<<<<<<< HEAD
->>>>>>> c8a50f044f1f46e2975cf642990d2bd1c31ce4a9
-=======
 
 
 
@@ -40,5 +38,9 @@ paseando en monociclo
 
 
 Elver galarga
+<<<<<<< HEAD
 >>>>>>> 4611c7ca1a19657d0d3751bc3de55e61c97c9b52
 >>>>>>> da4739ef8dcb250de6eaf2993326e6ad28cfbe3b
+=======
+
+>>>>>>> d0046fb53a7f95ad06d37b67177d61551d85fc0d
