@@ -1,4 +1,25 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Estábamos el otro día en el parque...
+y apareció el Juanma húngaro.
+=======
+Estábamos el otro día en el parque y me encontré una bici
+>>>>>>> 538e8f46036c89fe81a859519ca9dc977623509a
+=======
 Estábamos el otro día en el parque...
 y el Chispis estaba cookin' in da kitchen
 Elver galarga
 Añadiendo disimuladamente una nueva línea
+>>>>>>> 6ff37f8fdc00d94caac3a1da4ed006f944d48a40
+=======
+Estábamos el otro día en el parque...
+paseando en monociclo
+
+
+
+
+
+
+Elver galarga
+
